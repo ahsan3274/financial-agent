@@ -91,7 +91,7 @@ sequenceDiagram
 ## Clone the Repository
 
 ```bash
-git clone 'ahsan3274/financial-agent'
+git clone git@github.com:ahsan3274/financial-agent.git
 cd financial-agent
 
 ##Create a Virtual Environment

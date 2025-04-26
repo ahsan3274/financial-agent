@@ -192,8 +192,9 @@ During the design phase, querying an LLM helped explore different ways to struct
 * The error handling logic within tools (like returning a status dictionary from DataAnalyzer).
 * Methods for generating descriptions from multiple CSV columns.
 
+
 5. Documentation:
-Assistance was used minimally for refining docstrings or rephrasing explanations within comments or this README for clarity.
+Assistance was used minimally for refining docstrings/rephrasing explanations within comments / this README for clarity / function skeletons
 
 # Challenges & Limitations Encountered with AI:
 

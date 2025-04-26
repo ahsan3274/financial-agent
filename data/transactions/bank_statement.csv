@@ -1,0 +1,362 @@
+Posting date,Amount,Payee,Notes,Category
+1/5/2024,4681,Employer Inc.,Monthly Salary,Salary
+1/6/2024,-191.2,Amazon,Monthly subscription,Shopping
+1/6/2024,-91.26,Starbucks,Membership fee,Food & Drink
+1/6/2024,-38.79,Rent Payment,Bill payment,Housing
+1/8/2024,-129.3,Electric Company,Direct deposit,Utilities
+1/9/2024,-169.19,Shell Gas,Bill payment,Transportation
+1/10/2024,-106.84,Starbucks,Bill payment,Food & Drink
+1/10/2024,-124.29,CVS Pharmacy,Online purchase,Health
+1/12/2024,-133.14,Electric Company,POS transaction,Utilities
+1/13/2024,-187.25,CVS Pharmacy,Online purchase,Health
+1/14/2024,-139.26,Water Company,POS transaction,Utilities
+1/17/2024,-126.46,Electric Company,POS transaction,Utilities
+1/19/2024,-22.9,AT&T,Online purchase,Utilities
+1/20/2024,-75.24,Shell Gas,Monthly subscription,Transportation
+1/21/2024,-35.94,Local Gym,POS transaction,Health & Fitness
+1/23/2024,-105.68,CVS Pharmacy,Membership fee,Health
+1/24/2024,-160.06,Shell Gas,Online purchase,Transportation
+1/24/2024,-90.6,Amazon,Utility bill,Shopping
+1/25/2024,-30.89,Netflix,Bill payment,Entertainment
+1/25/2024,-85.21,Trader Joe's,In-store purchase,Groceries
+1/26/2024,-57.95,Amazon,Monthly subscription,Shopping
+1/26/2024,-20.77,Walmart,Direct deposit,Groceries
+1/27/2024,-7.81,Walmart,Bill payment,Groceries
+1/27/2024,-144.35,CVS Pharmacy,Utility bill,Health
+1/28/2024,-53.92,Shell Gas,Online purchase,Transportation
+1/28/2024,-14.3,AT&T,POS transaction,Utilities
+2/3/2024,5008,Employer Inc.,Monthly Salary,Salary
+2/6/2024,-132.04,Netflix,Online purchase,Entertainment
+2/6/2024,-94.36,Netflix,Membership fee,Entertainment
+2/6/2024,-110.18,Water Company,Utility bill,Utilities
+2/7/2024,-10.17,Water Company,Monthly subscription,Utilities
+2/7/2024,-55.84,Shell Gas,POS transaction,Transportation
+2/8/2024,-198.15,Shell Gas,Online purchase,Transportation
+2/9/2024,-13.83,Local Gym,Online purchase,Health & Fitness
+2/9/2024,-38.77,Trader Joe's,POS transaction,Groceries
+2/9/2024,-86.5,AT&T,Direct deposit,Utilities
+2/10/2024,-151.37,Local Gym,In-store purchase,Health & Fitness
+2/10/2024,-82.71,Netflix,POS transaction,Entertainment
+2/12/2024,-28.04,Trader Joe's,Bill payment,Groceries
+2/13/2024,-80.15,Rent Payment,Direct deposit,Housing
+2/15/2024,-190.08,Water Company,POS transaction,Utilities
+2/15/2024,-127.04,Starbucks,Direct deposit,Food & Drink
+2/15/2024,-9.54,Walmart,Monthly subscription,Groceries
+2/16/2024,-176.11,Trader Joe's,Utility bill,Groceries
+2/16/2024,-43.18,Rent Payment,In-store purchase,Housing
+2/17/2024,-80.29,Water Company,In-store purchase,Utilities
+2/18/2024,-46.84,Local Gym,Direct deposit,Health & Fitness
+2/18/2024,-36.77,Water Company,In-store purchase,Utilities
+2/19/2024,-8.55,Shell Gas,Monthly subscription,Transportation
+2/21/2024,-24.08,Rent Payment,Monthly subscription,Housing
+2/21/2024,-162.35,AT&T,Utility bill,Utilities
+2/23/2024,-116.81,Spotify,In-store purchase,Entertainment
+2/24/2024,-125.56,Water Company,Bill payment,Utilities
+2/24/2024,-165.02,AT&T,Bill payment,Utilities
+2/25/2024,-39.19,Netflix,In-store purchase,Entertainment
+2/25/2024,-117.22,Local Gym,Online purchase,Health & Fitness
+2/26/2024,-72.93,Walmart,Monthly subscription,Groceries
+2/28/2024,-18.88,AT&T,Utility bill,Utilities
+2/29/2024,-189.06,Shell Gas,POS transaction,Transportation
+3/1/2024,-111.85,Local Gym,Monthly subscription,Health & Fitness
+3/4/2024,5571,Employer Inc.,Monthly Salary,Salary
+3/6/2024,-176.67,Rent Payment,In-store purchase,Housing
+3/7/2024,-20.86,Walmart,In-store purchase,Groceries
+3/9/2024,-78.37,Netflix,POS transaction,Entertainment
+3/10/2024,-51.53,Amazon,Direct deposit,Shopping
+3/10/2024,-148.72,CVS Pharmacy,Membership fee,Health
+3/10/2024,-50.48,Spotify,Monthly subscription,Entertainment
+3/10/2024,-62.18,Trader Joe's,Bill payment,Groceries
+3/12/2024,-88.09,Rent Payment,Bill payment,Housing
+3/12/2024,-22.79,Water Company,Direct deposit,Utilities
+3/12/2024,-191.58,Netflix,Utility bill,Entertainment
+3/13/2024,-19.19,Netflix,In-store purchase,Entertainment
+3/13/2024,-77.98,Spotify,Utility bill,Entertainment
+3/15/2024,-168.21,Shell Gas,Direct deposit,Transportation
+3/15/2024,-194.98,Spotify,Membership fee,Entertainment
+3/16/2024,-142.64,Water Company,POS transaction,Utilities
+3/17/2024,-191.92,Electric Company,Bill payment,Utilities
+3/19/2024,-112.16,Spotify,In-store purchase,Entertainment
+3/20/2024,-21.24,Rent Payment,POS transaction,Housing
+3/20/2024,-32.88,Rent Payment,Monthly subscription,Housing
+3/22/2024,-189.71,Electric Company,Utility bill,Utilities
+3/22/2024,-24.72,Amazon,In-store purchase,Shopping
+3/22/2024,-156.4,Walmart,In-store purchase,Groceries
+3/22/2024,-109.19,Electric Company,Bill payment,Utilities
+3/23/2024,-178.92,Starbucks,Online purchase,Food & Drink
+3/24/2024,-22.8,CVS Pharmacy,POS transaction,Health
+3/24/2024,-156.54,Rent Payment,Online purchase,Housing
+3/24/2024,-80.89,AT&T,Utility bill,Utilities
+3/25/2024,-166.16,CVS Pharmacy,Bill payment,Health
+3/25/2024,-116.82,Rent Payment,Utility bill,Housing
+3/26/2024,-151.71,Shell Gas,Bill payment,Transportation
+3/27/2024,-63.04,Rent Payment,Utility bill,Housing
+3/28/2024,-151.42,Trader Joe's,Direct deposit,Groceries
+3/28/2024,-157.35,Netflix,Utility bill,Entertainment
+3/29/2024,-174.09,AT&T,Utility bill,Utilities
+3/30/2024,-112.97,Local Gym,Online purchase,Health & Fitness
+3/30/2024,-51.46,Rent Payment,Monthly subscription,Housing
+3/30/2024,-120.42,Spotify,Utility bill,Entertainment
+4/1/2024,5205,Employer Inc.,Monthly Salary,Salary
+4/6/2024,-48.6,Trader Joe's,Utility bill,Groceries
+4/6/2024,-127.37,Amazon,Bill payment,Shopping
+4/8/2024,-118.76,Starbucks,Membership fee,Food & Drink
+4/9/2024,-95.42,Electric Company,In-store purchase,Utilities
+4/10/2024,-54.33,Rent Payment,Bill payment,Housing
+4/11/2024,-161.41,CVS Pharmacy,Membership fee,Health
+4/12/2024,-89.72,Netflix,POS transaction,Entertainment
+4/14/2024,-150.12,Amazon,Membership fee,Shopping
+4/15/2024,-181.74,Water Company,Utility bill,Utilities
+4/17/2024,-25.82,Netflix,Utility bill,Entertainment
+4/17/2024,-191.95,CVS Pharmacy,Monthly subscription,Health
+4/18/2024,-194.13,Starbucks,Membership fee,Food & Drink
+4/18/2024,-7.21,Water Company,Membership fee,Utilities
+4/20/2024,-178.77,Spotify,Bill payment,Entertainment
+4/21/2024,-178.6,Starbucks,POS transaction,Food & Drink
+4/22/2024,-140.67,Shell Gas,Membership fee,Transportation
+4/22/2024,-21.16,Water Company,Membership fee,Utilities
+4/23/2024,-56.86,Amazon,Utility bill,Shopping
+4/23/2024,-37.41,Rent Payment,In-store purchase,Housing
+4/24/2024,-194.01,Water Company,Membership fee,Utilities
+4/25/2024,-28.17,Walmart,In-store purchase,Groceries
+4/26/2024,-59.09,Electric Company,POS transaction,Utilities
+4/27/2024,-79.92,Netflix,Bill payment,Entertainment
+4/27/2024,-185.31,Water Company,In-store purchase,Utilities
+4/28/2024,-13.86,AT&T,Direct deposit,Utilities
+4/30/2024,-78.1,Rent Payment,Direct deposit,Housing
+5/4/2024,4868,Employer Inc.,Monthly Salary,Salary
+5/6/2024,-7.67,Local Gym,Online purchase,Health & Fitness
+5/6/2024,-156.63,Spotify,Online purchase,Entertainment
+5/6/2024,-135.98,Spotify,Online purchase,Entertainment
+5/7/2024,-12.18,Trader Joe's,Online purchase,Groceries
+5/7/2024,-21.14,Local Gym,In-store purchase,Health & Fitness
+5/9/2024,-197.31,AT&T,Membership fee,Utilities
+5/10/2024,-199.34,Starbucks,Online purchase,Food & Drink
+5/10/2024,-124.62,Water Company,Utility bill,Utilities
+5/10/2024,-10.14,Shell Gas,Utility bill,Transportation
+5/11/2024,-190.21,AT&T,Bill payment,Utilities
+5/14/2024,-65.36,Netflix,Utility bill,Entertainment
+5/15/2024,-78.68,Spotify,Direct deposit,Entertainment
+5/18/2024,-123.2,Shell Gas,Monthly subscription,Transportation
+5/19/2024,-19.86,Spotify,Online purchase,Entertainment
+5/19/2024,-54.03,Shell Gas,Utility bill,Transportation
+5/21/2024,-36.71,Water Company,Utility bill,Utilities
+5/22/2024,-109.2,Starbucks,Membership fee,Food & Drink
+5/22/2024,-78.46,Rent Payment,Utility bill,Housing
+5/22/2024,-168.47,Spotify,POS transaction,Entertainment
+5/23/2024,-197.52,Local Gym,Direct deposit,Health & Fitness
+5/23/2024,-112.56,Spotify,In-store purchase,Entertainment
+5/25/2024,-122.54,Local Gym,Online purchase,Health & Fitness
+5/26/2024,-189.23,AT&T,In-store purchase,Utilities
+5/26/2024,-92.86,AT&T,Utility bill,Utilities
+5/26/2024,-119.1,Shell Gas,Utility bill,Transportation
+5/27/2024,-11.3,Local Gym,Online purchase,Health & Fitness
+5/28/2024,-173.62,Amazon,Utility bill,Shopping
+5/30/2024,-194.13,Electric Company,POS transaction,Utilities
+6/5/2024,5823,Employer Inc.,Monthly Salary,Salary
+6/7/2024,-97.86,Netflix,Monthly subscription,Entertainment
+6/7/2024,-72.91,Shell Gas,Monthly subscription,Transportation
+6/7/2024,-129.15,Starbucks,Monthly subscription,Food & Drink
+6/7/2024,-73.36,Water Company,Direct deposit,Utilities
+6/7/2024,-161.98,Trader Joe's,In-store purchase,Groceries
+6/8/2024,-106.43,Water Company,Online purchase,Utilities
+6/9/2024,-94.57,Amazon,Bill payment,Shopping
+6/10/2024,-125.96,Spotify,Monthly subscription,Entertainment
+6/11/2024,-92.93,Trader Joe's,Online purchase,Groceries
+6/12/2024,-31.59,Spotify,Bill payment,Entertainment
+6/13/2024,-9.33,Walmart,Direct deposit,Groceries
+6/17/2024,-114.38,Netflix,In-store purchase,Entertainment
+6/17/2024,-164.2,Water Company,Online purchase,Utilities
+6/20/2024,-90.31,Water Company,POS transaction,Utilities
+6/20/2024,-82.33,Shell Gas,Utility bill,Transportation
+6/20/2024,-87,Netflix,POS transaction,Entertainment
+6/22/2024,-190.16,Amazon,In-store purchase,Shopping
+6/22/2024,-100.96,Rent Payment,Monthly subscription,Housing
+6/25/2024,-94.53,Water Company,Online purchase,Utilities
+6/28/2024,-107.1,Local Gym,In-store purchase,Health & Fitness
+6/30/2024,-120.04,Walmart,POS transaction,Groceries
+7/3/2024,6593,Employer Inc.,Monthly Salary,Salary
+7/6/2024,-21.48,Water Company,Bill payment,Utilities
+7/8/2024,-105.47,Local Gym,POS transaction,Health & Fitness
+7/8/2024,-40.98,AT&T,Bill payment,Utilities
+7/9/2024,-40.47,Rent Payment,Membership fee,Housing
+7/10/2024,-72.29,Spotify,Utility bill,Entertainment
+7/10/2024,-94.85,Amazon,Bill payment,Shopping
+7/14/2024,-23,Trader Joe's,Utility bill,Groceries
+7/15/2024,-39.52,Electric Company,Bill payment,Utilities
+7/16/2024,-118.03,Rent Payment,Direct deposit,Housing
+7/16/2024,-184.57,Starbucks,Membership fee,Food & Drink
+7/16/2024,-19.79,Amazon,Direct deposit,Shopping
+7/19/2024,-69.37,Water Company,Membership fee,Utilities
+7/19/2024,-76.03,Spotify,In-store purchase,Entertainment
+7/20/2024,-109.64,Trader Joe's,Bill payment,Groceries
+7/20/2024,-127.44,AT&T,Online purchase,Utilities
+7/20/2024,-104.77,Spotify,Direct deposit,Entertainment
+7/21/2024,-34.62,Spotify,Monthly subscription,Entertainment
+7/22/2024,-58.99,Netflix,Direct deposit,Entertainment
+7/23/2024,-122.38,Electric Company,Bill payment,Utilities
+7/24/2024,-12.97,Trader Joe's,Membership fee,Groceries
+7/26/2024,-112,AT&T,In-store purchase,Utilities
+7/26/2024,-72.75,CVS Pharmacy,Utility bill,Health
+7/27/2024,-141.05,Local Gym,Direct deposit,Health & Fitness
+7/29/2024,-85.27,Electric Company,POS transaction,Utilities
+7/30/2024,-94.72,Walmart,Utility bill,Groceries
+8/5/2024,4055,Employer Inc.,Monthly Salary,Salary
+8/7/2024,-117.32,Trader Joe's,Bill payment,Groceries
+8/7/2024,-150.76,Amazon,In-store purchase,Shopping
+8/7/2024,-52.65,Amazon,In-store purchase,Shopping
+8/9/2024,-170.91,Shell Gas,Online purchase,Transportation
+8/9/2024,-74.25,Shell Gas,Bill payment,Transportation
+8/11/2024,-52.96,Electric Company,POS transaction,Utilities
+8/11/2024,-108.86,Amazon,Bill payment,Shopping
+8/13/2024,-140.91,Rent Payment,Membership fee,Housing
+8/13/2024,-119.37,Electric Company,POS transaction,Utilities
+8/14/2024,-70.8,Electric Company,Membership fee,Utilities
+8/14/2024,-102.2,Shell Gas,In-store purchase,Transportation
+8/15/2024,-114.97,Shell Gas,Direct deposit,Transportation
+8/16/2024,-108.76,Rent Payment,Membership fee,Housing
+8/17/2024,-29.88,Netflix,In-store purchase,Entertainment
+8/17/2024,-50.48,Local Gym,Direct deposit,Health & Fitness
+8/18/2024,-120.75,AT&T,Membership fee,Utilities
+8/18/2024,-69.42,Shell Gas,In-store purchase,Transportation
+8/18/2024,-174.11,Spotify,Online purchase,Entertainment
+8/19/2024,-33.81,Electric Company,Utility bill,Utilities
+8/20/2024,-25.45,Netflix,Utility bill,Entertainment
+8/20/2024,-169.67,Electric Company,Membership fee,Utilities
+8/20/2024,-118.92,Amazon,In-store purchase,Shopping
+8/22/2024,-46.23,Spotify,Direct deposit,Entertainment
+8/24/2024,-144.1,Spotify,In-store purchase,Entertainment
+8/25/2024,-130.95,Shell Gas,Bill payment,Transportation
+8/27/2024,-48.94,Shell Gas,Online purchase,Transportation
+8/27/2024,-119.43,AT&T,Monthly subscription,Utilities
+8/28/2024,-78.57,Electric Company,In-store purchase,Utilities
+8/28/2024,-15.07,Electric Company,POS transaction,Utilities
+8/28/2024,-108.6,Walmart,In-store purchase,Groceries
+8/29/2024,-179.87,Walmart,Bill payment,Groceries
+8/29/2024,-26.85,Amazon,Online purchase,Shopping
+8/30/2024,-51.26,AT&T,POS transaction,Utilities
+9/4/2024,4074,Employer Inc.,Monthly Salary,Salary
+9/6/2024,-77,Shell Gas,Utility bill,Transportation
+9/6/2024,-124.07,Amazon,Utility bill,Shopping
+9/7/2024,-22.13,Rent Payment,In-store purchase,Housing
+9/7/2024,-67.86,Water Company,In-store purchase,Utilities
+9/8/2024,-73.03,Starbucks,Online purchase,Food & Drink
+9/10/2024,-5.53,Shell Gas,Monthly subscription,Transportation
+9/10/2024,-41.47,Trader Joe's,Online purchase,Groceries
+9/11/2024,-118.34,Trader Joe's,In-store purchase,Groceries
+9/11/2024,-135.39,Walmart,Bill payment,Groceries
+9/14/2024,-121.15,Starbucks,In-store purchase,Food & Drink
+9/16/2024,-186.74,Water Company,Utility bill,Utilities
+9/16/2024,-116.46,Amazon,Utility bill,Shopping
+9/18/2024,-108.85,Spotify,Membership fee,Entertainment
+9/20/2024,-164.33,Spotify,Membership fee,Entertainment
+9/22/2024,-108.32,Amazon,In-store purchase,Shopping
+9/22/2024,-100.7,AT&T,POS transaction,Utilities
+9/24/2024,-168.52,Spotify,Monthly subscription,Entertainment
+9/25/2024,-103.98,Water Company,Bill payment,Utilities
+9/27/2024,-143.64,Starbucks,POS transaction,Food & Drink
+9/28/2024,-112.04,Trader Joe's,Monthly subscription,Groceries
+9/29/2024,-31.21,Shell Gas,Online purchase,Transportation
+9/29/2024,-123.19,Starbucks,Monthly subscription,Food & Drink
+9/30/2024,-145.1,Spotify,Monthly subscription,Entertainment
+10/4/2024,5604,Employer Inc.,Monthly Salary,Salary
+10/6/2024,-109.02,Trader Joe's,Online purchase,Groceries
+10/6/2024,-11.54,Trader Joe's,Utility bill,Groceries
+10/6/2024,-150.78,Spotify,Bill payment,Entertainment
+10/7/2024,-40.34,Netflix,Bill payment,Entertainment
+10/8/2024,-37.03,Local Gym,Monthly subscription,Health & Fitness
+10/8/2024,-185.66,Electric Company,Bill payment,Utilities
+10/9/2024,-66.66,Shell Gas,POS transaction,Transportation
+10/10/2024,-44.32,Shell Gas,In-store purchase,Transportation
+10/10/2024,-156.82,Shell Gas,POS transaction,Transportation
+10/10/2024,-50.96,CVS Pharmacy,In-store purchase,Health
+10/11/2024,-188.27,Trader Joe's,Bill payment,Groceries
+10/11/2024,-151.72,Spotify,Membership fee,Entertainment
+10/12/2024,-147.46,Walmart,Monthly subscription,Groceries
+10/12/2024,-116.76,Water Company,POS transaction,Utilities
+10/13/2024,-93.13,Starbucks,Bill payment,Food & Drink
+10/13/2024,-78.5,Trader Joe's,Bill payment,Groceries
+10/13/2024,-166.45,Amazon,In-store purchase,Shopping
+10/15/2024,-81.53,Amazon,Online purchase,Shopping
+10/15/2024,-32.16,Netflix,Online purchase,Entertainment
+10/19/2024,-107,Rent Payment,POS transaction,Housing
+10/20/2024,-117.61,Electric Company,Utility bill,Utilities
+10/20/2024,-176.33,Water Company,Bill payment,Utilities
+10/22/2024,-180.42,Shell Gas,Membership fee,Transportation
+10/23/2024,-29.24,Spotify,Membership fee,Entertainment
+10/24/2024,-110.86,Local Gym,Direct deposit,Health & Fitness
+10/24/2024,-126.7,Spotify,Monthly subscription,Entertainment
+10/26/2024,-181.76,Trader Joe's,Online purchase,Groceries
+10/27/2024,-14.38,Electric Company,Membership fee,Utilities
+10/27/2024,-144.24,Rent Payment,Membership fee,Housing
+10/28/2024,-108.71,Spotify,Monthly subscription,Entertainment
+10/29/2024,-198.23,Shell Gas,Online purchase,Transportation
+11/1/2024,4516,Employer Inc.,Monthly Salary,Salary
+11/6/2024,-27.08,Shell Gas,Online purchase,Transportation
+11/6/2024,-25.07,Spotify,Direct deposit,Entertainment
+11/9/2024,-184.16,Netflix,Bill payment,Entertainment
+11/9/2024,-94.12,AT&T,Monthly subscription,Utilities
+11/9/2024,-29.31,Amazon,In-store purchase,Shopping
+11/9/2024,-144.65,AT&T,Bill payment,Utilities
+11/10/2024,-184.89,CVS Pharmacy,POS transaction,Health
+11/10/2024,-166.23,AT&T,Monthly subscription,Utilities
+11/11/2024,-83.17,CVS Pharmacy,Online purchase,Health
+11/13/2024,-132.02,Shell Gas,Membership fee,Transportation
+11/13/2024,-34.23,Local Gym,Membership fee,Health & Fitness
+11/14/2024,-87.71,Amazon,Online purchase,Shopping
+11/15/2024,-71.79,Water Company,Utility bill,Utilities
+11/16/2024,-186.76,Water Company,Online purchase,Utilities
+11/16/2024,-34.9,Local Gym,Online purchase,Health & Fitness
+11/18/2024,-145.41,Water Company,Online purchase,Utilities
+11/18/2024,-32.13,Netflix,Direct deposit,Entertainment
+11/18/2024,-26.57,Local Gym,Direct deposit,Health & Fitness
+11/19/2024,-187.2,Rent Payment,In-store purchase,Housing
+11/20/2024,-146.59,Rent Payment,Membership fee,Housing
+11/20/2024,-61.15,Rent Payment,Membership fee,Housing
+11/20/2024,-84.75,Shell Gas,Utility bill,Transportation
+11/22/2024,-117.38,Electric Company,Membership fee,Utilities
+11/23/2024,-124.23,Trader Joe's,Membership fee,Groceries
+11/24/2024,-140.32,Spotify,Monthly subscription,Entertainment
+11/25/2024,-82.47,Starbucks,Direct deposit,Food & Drink
+11/26/2024,-37.28,CVS Pharmacy,Utility bill,Health
+11/27/2024,-182.58,Electric Company,POS transaction,Utilities
+11/30/2024,-69.77,Amazon,Membership fee,Shopping
+12/1/2024,4566,Employer Inc.,Monthly Salary,Salary
+12/6/2024,-65.44,Trader Joe's,Utility bill,Groceries
+12/6/2024,-9.95,AT&T,Utility bill,Utilities
+12/6/2024,-75.67,Trader Joe's,Membership fee,Groceries
+12/7/2024,-109.22,Starbucks,Direct deposit,Food & Drink
+12/7/2024,-184.1,Amazon,Bill payment,Shopping
+12/9/2024,-40.48,Walmart,POS transaction,Groceries
+12/11/2024,-154.24,Amazon,Membership fee,Shopping
+12/11/2024,-11.61,Electric Company,Bill payment,Utilities
+12/12/2024,-195.23,AT&T,Direct deposit,Utilities
+12/12/2024,-72.66,Trader Joe's,POS transaction,Groceries
+12/13/2024,-102.93,Netflix,In-store purchase,Entertainment
+12/13/2024,-123.54,Rent Payment,POS transaction,Housing
+12/13/2024,-10.28,AT&T,Utility bill,Utilities
+12/14/2024,-33.99,CVS Pharmacy,Utility bill,Health
+12/14/2024,-27.28,Spotify,In-store purchase,Entertainment
+12/14/2024,-45.09,CVS Pharmacy,Bill payment,Health
+12/15/2024,-57.8,Amazon,Membership fee,Shopping
+12/16/2024,-11.41,Water Company,Utility bill,Utilities
+12/16/2024,-128.29,Starbucks,Membership fee,Food & Drink
+12/16/2024,-184.98,Local Gym,In-store purchase,Health & Fitness
+12/19/2024,-107.68,Water Company,Bill payment,Utilities
+12/20/2024,-15.68,Spotify,Bill payment,Entertainment
+12/21/2024,-115.14,Electric Company,Utility bill,Utilities
+12/22/2024,-12.13,Electric Company,Membership fee,Utilities
+12/22/2024,-83.15,Amazon,Membership fee,Shopping
+12/23/2024,-134.39,CVS Pharmacy,Membership fee,Health
+12/23/2024,-174.06,Rent Payment,Monthly subscription,Housing
+12/23/2024,-62.34,Local Gym,POS transaction,Health & Fitness
+12/24/2024,-53.4,AT&T,Bill payment,Utilities
+12/24/2024,-93.39,Spotify,Online purchase,Entertainment
+12/25/2024,-109.79,Spotify,POS transaction,Entertainment
+12/27/2024,-172.82,Spotify,Direct deposit,Entertainment
+12/28/2024,-189.49,Local Gym,POS transaction,Health & Fitness
+12/28/2024,-88.22,Netflix,Utility bill,Entertainment
+12/28/2024,-54.51,AT&T,Membership fee,Utilities
+12/29/2024,-180.12,Walmart,Direct deposit,Groceries
+12/30/2024,-102.18,Walmart,Bill payment,Groceries
+12/30/2024,-5.9,Local Gym,Membership fee,Health & Fitness

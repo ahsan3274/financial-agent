@@ -1,0 +1,36 @@
+{
+  "categories": {
+    "housing": {
+      "name": "Housing",
+      "description": "Rent, mortgage, utilities, repairs"
+    },
+    "income": {
+      "name": "Income",
+      "description": "Salary, gifts, refunds"
+    },
+    "other": {
+      "name": "Other",
+      "description": "Miscellaneous expenses"
+    }
+  },
+  "rules": {
+    "housing": [
+      "rent",
+      "mortgage",
+      "electricity",
+      "water",
+      "gas bill",
+      "internet",
+      "cable"
+    ],
+    "income": [
+      "salary",
+      "paycheck",
+      "dividend",
+      "interest",
+      "refund",
+      "gift received"
+    ]
+  },
+  "updated_at": "2025-04-26T19:59:30.912436"
+}

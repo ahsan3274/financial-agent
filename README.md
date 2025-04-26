@@ -77,7 +77,7 @@ sequenceDiagram
 ```
 
 
-##Technologies Used
+## Technologies Used
 
 - **Python 3.9+**
 - **Pandas**: For data manipulation, especially reading CSVs and handling expense data.

@@ -198,20 +198,20 @@ Assistance was used minimally for refining docstrings/rephrasing explanations wi
 
 # Challenges & Limitations Encountered with AI:
 
-    -Initial Tool Selection: Early versions of the reasoning prompts led to the LLM frequently selecting incorrect tools (e.g., goal_tracker for a budget task). This required making tool descriptions much more distinct and explicitly guiding the LLM's reasoning process within the prompt.
+-Initial Tool Selection: Early versions of the reasoning prompts led to the LLM frequently selecting incorrect tools (e.g., goal_tracker for a budget task). This required making tool descriptions much more distinct and explicitly guiding the LLM's reasoning process within the prompt.
 
-    -Output Formatting: The LLM did not always adhere strictly to the requested JSON format for actions, necessitating robust JSON extraction and parsing logic (including handling incomplete or malformed JSON) in the ReasoningEngine.
+-Output Formatting: The LLM did not always adhere strictly to the requested JSON format for actions, necessitating robust JSON extraction and parsing logic (including handling incomplete or malformed JSON) in the ReasoningEngine.
 
-    -Rate Limiting: The 429 errors from the free-tier API were a major practical hurdle, forcing the implementation of artificial time.sleep() delays, which impacts usability and demonstrates a key operational constraint.
+-Rate Limiting: The 429 errors from the free-tier API were a major practical hurdle, forcing the implementation of artificial time.sleep() delays, which impacts usability and demonstrates a key operational constraint.
 
-    -Contextual Understanding: While generally good, the LLM sometimes missed nuances in the short-term memory or failed to adequately incorporate error messages into its subsequent reasoning without explicit prompting instructions.
+-Contextual Understanding: While generally good, the LLM sometimes missed nuances in the short-term memory or failed to adequately incorporate error messages into its subsequent reasoning without explicit prompting instructions.
 
 # Future Extensions & Considerations
 
-    -More Sophisticated Reasoning: Add task decomposition into sub-tasks.
+-More Sophisticated Reasoning: Add task decomposition into sub-tasks.
 
-    -Enhanced Error Handling: Implement smarter retry or fallback mechanisms.
+-Enhanced Error Handling: Implement smarter retry or fallback mechanisms.
 
-    -Context Management: Improve memory search and summarization.
+-Context Management: Improve memory search and summarization.
 
-    -Data Visualization Tool: Generate simple charts using Matplotlib or Seaborn.
+-Data Visualization Tool: Generate simple charts using Matplotlib or Seaborn.

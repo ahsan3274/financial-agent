@@ -259,7 +259,7 @@ class BudgetAdvisor:
                  recommendations.append(f"Income (${self.income:.2f}) exceeds total budgeted amount (${total_budget:.2f}). Consider allocating ${potential_savings:.2f} to savings or other goals.")
 
         except Exception as e:
-             logger.error(f"Error generating recommendation details: {e}", exc_info=True)
+            logger.error(f"Error generating recommendation details: {e}", exc_info=True)
             return {
                  "budget_status": budget_status_result,
                  "error": "Failed to generate detailed recommendations."

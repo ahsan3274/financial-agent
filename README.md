@@ -166,7 +166,7 @@ python main.py
 -Type quit or exit to shut down the agent gracefully (this saves the latest state).
 # AI Tool Reflection
 
-During the development of this financial agent, AI assistance was utilized in several capacities, primarily leveraging Google Gemini (via the API for the agent's core reasoning) and potentially other LLM assistance (like ChatGPT or GitHub Copilot, if applicable) for specific development tasks.
+During the development of this financial agent, AI assistance was utilized in several capacities, primarily leveraging Google Gemini (via the API for the agent's core reasoning) and potentially other LLM assistance (like ChatGPT and Claude) for specific development tasks.
 
 1. Core Agent Reasoning & Prompt Engineering:
 The agent's ability to understand tasks and select tools relies heavily on the LLM prompts defined in the ReasoningEngine. AI assistance was used to:
